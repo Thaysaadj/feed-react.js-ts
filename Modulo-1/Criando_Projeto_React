@@ -1,0 +1,25 @@
+Import do React - Coração do react
+Import ReactDom - integração com o Document object Model(Integração do HTML COM JS)
+
+Um arquivo com extensão JSX significa que dentro do JS tem HTML
+
+Named Export
+  ex: export function Post(){}
+Dessa forma não precisamos usar o export default no final
+E previne erros de exportação 
+
+OBS: Usa o nome do componente entre {} quando for importa-lo
+
+<!-- TÓPICO-->
+Propriedade - O que são ?
+Informações que podemos passar para componentes. 
+
+Gabarito 
+Assinale a alternativa incorreta sobre React:
+R : O React pode ser utilizado apenas interfaces Web, ou seja, não é possível utilizá-lo em outros ambientes como Mobile por exemplo.
+
+Assinale a alternativa incorreta sobre SPA e SSR:
+R:No SSR temos Back-end e Front-end separados, podendo inclusive ter múltiplos Front-ends (Web, mobile, etc.). Já no SPA temos o Back-end e Front-end normalmente unidos em uma única aplicação.
+
+Sobre Bundlers & Compilers, assinale a alternativa correta:
+R:O Babel é um exemplo de compiler para JS bem famoso e sua principal função é pegar sintaxes mais atuais do JS e converter para um código compatível com os Browsers.
